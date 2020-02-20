@@ -6,3 +6,7 @@ html, body {
 .card {
     text-align: left;
 }
+
+.jumbotron {
+    text-align: center;
+}
